@@ -372,6 +372,19 @@
     padding: 24px;
     width: 90%;
   }
+
+  .item-tags .tag {
+    align-items: center;
+    background-color: #ebebff;
+    border-radius: 8px;
+    color: var(--blue-dark);
+    display: flex;
+    font-size: 12px;
+    font-weight: 500;
+    justify-content: center;
+    margin: 0 4px;
+    padding: 4px 12px;
+  }
   
   .item-img {
     border-radius: 8px;
